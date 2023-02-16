@@ -1,4 +1,4 @@
-mport main_giovanni
+import main_giovanni
 import saluto_alex_foli
 
 def saluto_nome_cognome():
